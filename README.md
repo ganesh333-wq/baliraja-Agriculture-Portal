@@ -36,8 +36,9 @@ A smart agriculture platform built using **Python Flask**, integrating machine l
 
 1. **Clone the Repository**  
    ```
-   git clone https://github.com/your-username/crop-disease-fertilizer-recommendation.git
-   cd crop-disease-fertilizer-recommendation
+   git clone https://github.com/ganesh333-wq/baliraja-Agriculture-Portal.git
+
+   cd baliraja-Agriculture-Portal
    ```
 
 2. **Install Requirements**  
