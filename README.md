@@ -1,5 +1,5 @@
 
-# 🌾 Crop Disease and Fertilizer Recommendation System 🌱
+# 🌾 Baliraja - Agriculture Portal 🌱
 
 ## 🔍 Overview
 
